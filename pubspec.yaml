@@ -8,8 +8,8 @@ description: Twitter API Library
 dependencies:
   oauth:
     git:
-      url: git://github.com/sh4869/oauth.dart.git
-      ref: develop
+      url: git://github.com/agusmao/oauth.dart.git
+      ref: master
   http: '>=0.11.2'
 dev_dependencies:
   test: '^1.5.1'
